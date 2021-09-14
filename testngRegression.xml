@@ -1,0 +1,7 @@
+<suite name="Regression Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.seltests.TestRunnerRegression"/>
+        </classes>
+    </test>
+</suite>
